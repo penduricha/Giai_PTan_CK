@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/ant-1.10.12.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/ant-launcher-1.10.12.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/bcmail-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/bcprov-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/bctsp-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/com.siyue.net.miginfocom.miglayout_4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/commons-text-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/itext-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/jdatepicker-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/jide.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/jlayer-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/jython-standalone-2.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/opencsv-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/org-jdesktop-swingx.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/pdf-renderer-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/scenebuilder-kit-20.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/timingframework-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="D:/nhom3_PhatTrienUngDung/Giai_PTan_CK/libraryJava/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
